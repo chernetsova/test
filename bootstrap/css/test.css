@@ -1,0 +1,157 @@
+body{
+    background-color: #EEEEEE;
+}
+
+.container{
+    border-top: 3px solid #53C3BE;
+    box-shadow: 0 1px 1px 1px #E2E2E2;
+}
+
+.header{
+    height: 50px;
+    background-color: #F2F2F2;
+
+}
+
+.text-uppercase{
+    color: #75C3C9;
+    font-size: 10pt;
+    font-family: Arial;
+    position: absolute;
+    margin-top: 15px;
+}
+
+.trending{
+    height: 50px;
+    /*width: 100px; */
+}
+
+.ancor{
+    width: 20%;
+    position: absolute;
+    margin: 15px 100px;
+}
+
+.ancor a{
+    color: #000;
+    font-size: 12pt;
+    font-family: "Open Sans", "Arial", "sans-serif";
+}
+
+.btn-group{
+    margin-top: 10px;
+    margin-left: 50%;
+}
+
+form input{
+    background-color: #E9E9E9;
+    display: inline-block;
+    width: 100px;
+}
+
+.role:hover{
+    border-radius: 50%;
+}
+
+.middler{
+    background-color: #FFFFFF;
+}
+
+.img1{
+    background-image: url('C://Users/Olechka/Documents/bootstrap/images/title.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 340px;
+    height: 72px;
+    position: relative;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.img2{
+    background-image: url('C://Users/Olechka/Documents/bootstrap/images/banner.gif');
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    width: 100%;
+    height: 72px;
+    margin-top: 10px;
+    margin-left: 400px;
+}
+
+.navBottom{
+    background-color: #F2F2F2;
+    height: 50px;
+    width: 100%;
+    margin-top: -20px;
+}
+
+.navBottom .text1{
+    color: #53CBD9;
+    font-size: 9pt;
+    font-family: Arial;
+    margin: 20px 20px;
+    position: absolute;
+}
+
+.text2 a{
+    color: #727272;
+    font-family: "Courier New";
+    font-size: 9pt;
+}
+
+.text2{
+    position: absolute;
+    margin: 17px 110px;
+}
+
+.text3{
+    color: #838E97;
+    font-family: "Courier New";
+    font-size: 9pt;
+}
+
+.text3{
+    position: absolute;
+    margin: 18px 150px;
+}
+
+.imgArticle{
+    margin-top: 50px;
+}
+
+.half{
+    border-right: 1px solid #d9d9d9;
+}
+
+.high{
+    position: relative;
+}
+
+h2 a{
+    color: #4A525A;
+    font-size: 12pt;
+    margin-left: 20px;
+    vertical-align: middle;
+    font-family: "Open Sans";
+    border-left: 3px solid #53C3BE;
+    padding-left: 10px;
+
+}
+
+.excerpt{
+    color: #949697;
+    font-size: 12pt;
+    line-height: 1.5;
+    border-bottom: 1px solid #d9d9d9;
+    font-family: "Open Sans";
+}
+
+.meta{
+    background-color: #f2f2f2;
+
+}
+
+.meta time, a{
+    color: #a6a6a6;
+}
